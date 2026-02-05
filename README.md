@@ -1,4 +1,4 @@
-# GR5243_project01_group10
+# GR5243 Project01
 ## Project Overview
 
 ---
