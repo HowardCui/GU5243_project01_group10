@@ -8,7 +8,6 @@ This dataset is accessed through the Socrata Open Data API (SODA2). Since this A
 
 To improve development efficiency, I added a sample loading mode that allows us to load a partial dataset during testing. Additionally, I designed code that saves data locally to avoid repeated API calls while maintaining full reproducibility.
 
-(...)
 ## Data Pre-preprocessing 
 (...)
 ## Conclusion
